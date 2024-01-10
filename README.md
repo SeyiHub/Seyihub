@@ -3,10 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rai CV Creator</title>
-    <link rel="stylesheet" href="style.css"/>
-    <script type="text/javascript" src="script.js"></script>
-</head>
+    <title>Email Contact</title>
+    </head>
 <body>
   <h3>Welcome</p>
     <p>You can reach me via email: seyi-tech@outlook.com</p>
